@@ -7,3 +7,5 @@ I am a dedicated programmer with a penchant for solving complex problems through
 ## found funny<_>
 
 https://christianheilmann.com/2016/10/05/can-we-stop-bad-mouthing-css-in-developer-talks-please/
+
+[![An image of @sanikakadamm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanikakadamm)](https://holopin.io/@sanikakadamm)
