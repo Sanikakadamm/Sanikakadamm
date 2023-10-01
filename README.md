@@ -1,6 +1,9 @@
 # Hi, I'm Sanika! 👋
 
 
+- 🌱 I’m currently learning **Full Stack Developer**
+- 📫 How to reach me **sanukadam22@gmail.com**
+
 ## 🚀 About Me
 I am a dedicated programmer with a penchant for solving complex problems through elegant code. With a strong foundation in multiple programming languages and a knack for continuous learning, I thrive on crafting efficient and scalable solutions. 
 
