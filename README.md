@@ -1,7 +1,7 @@
 # Hi, I'm Sanika! 👋
 
 
-- 🌱 I’m currently learning **Full Stack Developer**
+- 🌱 I’m currently learning **Full Stack Development**
 - 📫 How to reach me **sanukadam22@gmail.com**
 
 ## 🚀 About Me
