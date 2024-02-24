@@ -11,6 +11,7 @@ I am a dedicated programmer with a penchant for solving complex problems through
 <p align="left">
 <a href="https://www.linkedin.com/in/sanika-kadam-a4600b22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanika-kadam-a4600b22b" height="30" width="40" /></a>
 <a href="https://leetcode.com/Sanikakadamm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sanikakadamm" height="30" width="40" /></a>
+ <a href="" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="' height="30" width="40" /></a>
 </p>
 
 found funny:-
