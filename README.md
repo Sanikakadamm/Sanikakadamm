@@ -1,4 +1,4 @@
-# Hi, I'm Sanika! 👋
+# Hi, I'm Sanika!👋
 
 
 - 🌱 I’m currently learning **Full Stack Development**
